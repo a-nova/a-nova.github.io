@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<script type="text/javascript">
+var url="{{ page.url }}";
+var urlFilename = url.substring(url.lastIndexOf('/')+1);
+document.getElementById("goToPresentation").href = "../presentations/" + urlFilename;
+</script>

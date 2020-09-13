@@ -1,5 +1,32 @@
-title: Tactile theme
-description: Tactile is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Гражданское право
+
+# description: Для студентов ОмЮК
+
+lang: ru_RU
+
+show_downloads: false
+
+google_analytics: true
+
 theme: jekyll-theme-tactile
+
+github:
+  is_project_page: false
+
+collections:
+  lessons:
+    output: true
+  presentations:
+    output: true
+  notifs:
+    output: false
+  info:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "lessons"
+    values:
+      author: "Цыганова А.А. &mdash; Омский Юридический Колледж"
+      layout: "page"

@@ -1,0 +1,26 @@
+---
+title: Понятие гражданского права
+author: Цыганова А.А. -- Омский Юридический Колледж
+when: 12.06.2020
+output:
+  ioslides_presentation:
+    wide: true
+    smaller: true
+    transition: faster
+    mathjax: null
+    self_contained: true
+---
+
+<style>
+p {
+  text-align: justify;
+}
+</style>
+
+# Заголовок раздела
+
+## Заголовок слайда
+
+Текст слайда.
+
+# Спасибо за внимание
