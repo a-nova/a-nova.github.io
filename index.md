@@ -12,17 +12,7 @@ layout: default
 >
 > > Кушнир И.В., Гражданское право, 2013 г.
 
-<ol>
-
-{% for lesson in site.lessons %}
-
-  <li>
-    <a href="{{ lesson.url }}">
-      {{ lesson.when }} &mdash; {{ lesson.title }}
-    </a>
-  </li>
-
-{% endfor %}
+<h1>Объявления</h1>
 
 <ul>
 
@@ -37,6 +27,22 @@ layout: default
 {% endfor %}
 
 </ul>
+
+<h1>Материалы к занятиям</h1>
+
+<ol>
+
+{% for lesson in site.lessons %}
+
+  <li>
+    <a href="{{ lesson.url }}">
+      {{ lesson.when }} &mdash; {{ lesson.title }}
+    </a>
+  </li>
+
+{% endfor %}
+
+<h1>Дополнительные материалы</h1>
 
 <ul>
 
