@@ -12,6 +12,14 @@ layout: default
 >
 > > Кушнир И.В., Гражданское право, 2013 г.
 
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'notifs')" id="defaultOpen">Объявления</button>
+  <button class="tablinks" onclick="openTab(event, 'materials')">Материалы к занятиям</button>
+  <button class="tablinks" onclick="openTab(event, 'info')">Дополнительные материалы</button>
+</div>
+
+<div id="materials" class="tabcontent">
+
 <ol>
 
 {% for lesson in site.lessons %}
@@ -23,6 +31,12 @@ layout: default
   </li>
 
 {% endfor %}
+
+</ol>
+
+</div>
+
+<div id="notifs" class="tabcontent">
 
 <ul>
 
@@ -38,6 +52,10 @@ layout: default
 
 </ul>
 
+</div>
+
+<div id="info" class="tabcontent">
+
 <ul>
 
 {% for inf in site.info %}
@@ -51,6 +69,8 @@ layout: default
 {% endfor %}
 
 </ul>
+
+</div>
 
 <script>
 // Get the element with id="defaultOpen" and click on it
