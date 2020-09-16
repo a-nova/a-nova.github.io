@@ -12,3 +12,9 @@ layout: page
 
 - [Картотека арбитражных дел](https://kad.arbitr.ru/)
 - [Судебные и нормативные акты РФ](https://sudact.ru/)
+
+# Дополнительные ресурсы
+
+- [Киберленинка](https://cyberleninka.ru)
+- [Научная электронная библиотека](https://elibrary.ru)
+- [Закон.ру](https://zakon.ru)
