@@ -36,11 +36,15 @@ layout: default
 
   <li>
     <a href="{{ lesson.url }}">
-      {{ lesson.when }} &mdash; {{ lesson.title }}
+      {{ lesson.title }}
     </a>
   </li>
 
 {% endfor %}
+
+<hr />
+
+<h1><a href="/colloc">Коллоквиум</a></h1>
 
 <h1>Дополнительные материалы</h1>
 
