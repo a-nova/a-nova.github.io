@@ -7,5 +7,6 @@ layout: default
 <script type="text/javascript">
 var url="{{ page.url }}";
 var urlFilename = url.substring(url.lastIndexOf('/')+1);
-document.getElementById("goToPresentation").href = "../presentations/" + urlFilename;
+var pdf = urlFilename.substring(0,urlFilename.lastIndexOf('.')+1) + "pdf";
+document.getElementById("goToPresentation").href = "../presentations/" + pdf;
 </script>
