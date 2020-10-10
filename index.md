@@ -20,7 +20,7 @@ layout: default
 {% for notif in site.notifs %}
 
   <li>
-    <h2>{{ notif.date | date_to_long_string }} &mdash; {{ notif.title }}</h2>
+    <h2>{{ notif.when }} &mdash; {{ notif.title }}</h2>
     {{ notif.content }}
   </li>
 
