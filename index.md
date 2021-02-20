@@ -40,7 +40,7 @@ th {
 12. [Статистика Росреестр](https://rosreestr.gov.ru/site/open-service/statistika-i-analitika/statisticheskaya-otchetnost/?clear_cache=Y)
 13. [Информация с сайта ФНП (по различным тематикам)](https://notariat.ru/ru-ru/publishing-center/group/infographics/)
 14. [Дайджест новостей частного права (ежемесячные выпуски обзоров по частному праву)](https://m-logos.ru/publications/digest/)
-15. [Для проверки полного текста работы на заключительном этапе](https://www.antiplagiat.ru/)
+15. [Проверка полного текста работы на антиплагиат на заключительном этапе](https://www.antiplagiat.ru/)
 
 <h2>График выполнения курсовой работы</h2>
 
