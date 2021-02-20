@@ -4,6 +4,15 @@ layout: default
 
 {% include tabs.html %}
 
+<style>
+table {
+  border: 2px solid #000000;
+}
+td {
+  border: 2px solid #000000;
+}
+</style>
+
 > Jus est ars boni et aequi
 >
 > > Aulus Cornelius Celsus
