@@ -18,7 +18,7 @@ th {
 }
 </style>
 
-> Jus est ars boni et aequi
+> «Jus est ars boni et aequi».
 >
 > > Aulus Cornelius Celsus
 
