@@ -10,6 +10,11 @@ table {
 }
 td {
   border: 2px solid #000000;
+  padding: 5px;
+}
+th {
+  border: 2px solid #000000;
+  padding: 5px;
 }
 </style>
 
