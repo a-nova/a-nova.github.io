@@ -32,21 +32,22 @@ th {
 
 <h2>Источники и иные полезные ресурсы</h2>
 
-1. [Шаблон курсовой работы](/Kursovaya_ryba.docx)
-2. [Методические рекомендации по написанию курсовых работ](/metodichka_po_kursovym_rabotam.docx)
-3. [ГОСТ 7.0.5-2008 «Библиографическая ссылка»](/gost-7_0_8-2008.pdf)
-4. [Методы научного исследования](/Metody_Nauchnogo_Issledovania.pdf)
-5. Для поиска опубликованного ФЗ и оформления сноски на него -- [Собрание законодательства Российской Федерации](http://www.szrf.ru/szrf/index.phtml?md=1)
-6. [Обзоры судебной практики (используйте поиск в соответствии с темой курсовой)](http://xn--b1a4a.xn--p1ai/documents/thematics/?year=2021)
-7. [Экспертные заключения](http://privlaw.ru/sovet-po-kodifikacii/)
-8. [Проекты НПА](https://sozd.duma.gov.ru/calendar/b/year/2021-01-01/2021-12-31/1.1)
-9. [Издательство Юрайт](https://urait.ru/)
-10. [Данные судебной статистики арбитражных судов и судов общей юрисдикции](http://www.cdep.ru/index.php?id=79)
-11. [Статьи, диссертации, монографии от ИПС "КонсультантПлюс", оффлайн версия КонсультантПлюс с ограниченным количеством информации, но все равно информации там больше, чем в некоммерческой версии](https://www.consultant.ru/edu/student/study/)
-12. [Статистика Росреестр](https://rosreestr.gov.ru/site/open-service/statistika-i-analitika/statisticheskaya-otchetnost/?clear_cache=Y)
-13. [Информация с сайта ФНП (по различным тематикам)](https://notariat.ru/ru-ru/publishing-center/group/infographics/)
-14. [Дайджест новостей частного права (ежемесячные выпуски обзоров по частному праву)](https://m-logos.ru/publications/digest/)
-15. [Проверка полного текста работы на антиплагиат на заключительном этапе](https://www.antiplagiat.ru/)
+1. [НАУЧНЫЙ СТИЛЬ](https://licey.net/free/4-russkii_yazyk/41-kurs_russkogo_yazyka_russkii_yazyk_i_kultura_obscheniya/stages/791-52_nauchnyi_stil.html)
+2. [Шаблон курсовой работы](/Kursovaya_ryba.docx)
+3. [Методические рекомендации по написанию курсовых работ](/metodichka_po_kursovym_rabotam.docx)
+4. [ГОСТ 7.0.5-2008 «Библиографическая ссылка»](/gost-7_0_8-2008.pdf)
+5. [Методы научного исследования](/Metody_Nauchnogo_Issledovania.pdf)
+6. Для поиска опубликованного ФЗ и оформления сноски на него -- [Собрание законодательства Российской Федерации](http://www.szrf.ru/szrf/index.phtml?md=1)
+7. [Обзоры судебной практики (используйте поиск в соответствии с темой курсовой)](http://xn--b1a4a.xn--p1ai/documents/thematics/?year=2021)
+8. [Экспертные заключения](http://privlaw.ru/sovet-po-kodifikacii/)
+9. [Проекты НПА](https://sozd.duma.gov.ru/calendar/b/year/2021-01-01/2021-12-31/1.1)
+10. [Издательство Юрайт](https://urait.ru/)
+11. [Данные судебной статистики арбитражных судов и судов общей юрисдикции](http://www.cdep.ru/index.php?id=79)
+12. [Статьи, диссертации, монографии от ИПС "КонсультантПлюс", оффлайн версия КонсультантПлюс с ограниченным количеством информации, но все равно информации там больше, чем в некоммерческой версии](https://www.consultant.ru/edu/student/study/)
+13. [Статистика Росреестр](https://rosreestr.gov.ru/site/open-service/statistika-i-analitika/statisticheskaya-otchetnost/?clear_cache=Y)
+14. [Информация с сайта ФНП (по различным тематикам)](https://notariat.ru/ru-ru/publishing-center/group/infographics/)
+15. [Дайджест новостей частного права (ежемесячные выпуски обзоров по частному праву)](https://m-logos.ru/publications/digest/)
+16. [Проверка полного текста работы на антиплагиат на заключительном этапе](https://www.antiplagiat.ru/)
 
 <h2>График выполнения курсовой работы</h2>
 
