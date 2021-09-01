@@ -22,9 +22,9 @@ th {
 >
 > > Aulus Cornelius Celsus
 
-# Материалы к занятиям
+<h1>Материалы к занятиям</h1>
 
-## Гражданское право
+<h2>Гражданское право</h2>
 
 <ol>
 
@@ -40,7 +40,7 @@ th {
 
 <hr />
 
-## Семейное право
+<h2>Семейное право</h2>
 
 <ol>
 
@@ -56,7 +56,7 @@ th {
 
 <hr />
 
-# Полезное
+<h1>Полезное</h1>
 
 1. [Как сделать оглавление в MS Word](https://www.youtube.com/watch?app=desktop&v=fU9X88ZoALU)
 2. [Научный стиль](https://licey.net/free/4-russkii_yazyk/41-kurs_russkogo_yazyka_russkii_yazyk_i_kultura_obscheniya/stages/791-52_nauchnyi_stil.html)
@@ -76,9 +76,9 @@ th {
 16. [Дайджест новостей частного права (ежемесячные выпуски обзоров по частному праву)](https://m-logos.ru/publications/digest/)
 17. [Проверка полного текста работы на антиплагиат](https://www.antiplagiat.ru/)
 
-# <a href="/colloc">Коллоквиум</a>
+<h1><a href="/colloc">Коллоквиум</a></h1>
 
-# Дополнительные материалы
+<h1>Дополнительные материалы</h1>
 
 <ul>
 
