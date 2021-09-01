@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include tabl.html %}
+{% include tabs.html %}
 
 <style>
 table {
