@@ -14,7 +14,9 @@ github:
   is_project_page: false
 
 collections:
-  lessons:
+  grpr:
+    output: true
+  spr:
     output: true
   presentations:
     output: true
@@ -26,7 +28,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "lessons"
+      type: "grpr"
     values:
       author: "Цыганова А.А. &mdash; Омский Юридический Колледж"
       layout: "page"
