@@ -56,6 +56,22 @@ th {
 
 <hr />
 
+<h2>Трудовое право</h2>
+
+<ol>
+
+{% for lesson in site.лщ %}
+
+  <li>
+    <a href="{{ lesson.url }}">
+      {{ lesson.title }}
+    </a>
+  </li>
+
+{% endfor %}
+
+<hr />
+
 <h1><a href="/colloc">Коллоквиум</a></h1>
 
 <hr />
