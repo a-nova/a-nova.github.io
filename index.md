@@ -60,7 +60,7 @@ th {
 
 <ol>
 
-{% for lesson in site.лщ %}
+{% for lesson in site.tr %}
 
   <li>
     <a href="{{ lesson.url }}">
