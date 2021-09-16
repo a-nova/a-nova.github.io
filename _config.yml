@@ -8,7 +8,7 @@ show_downloads: false
 
 google_analytics: true
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 
 github:
   is_project_page: false
