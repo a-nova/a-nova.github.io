@@ -5,6 +5,8 @@ layout: page
 
 # [Перечень тем курсовых работ по гражданскому праву](./kurs/Perechen_Tem_Kursovykh_Rabot_Po_Grazhdanskomu_Pravu.docx)
 
+# [Презентация "Основы научного исследования"](./kurs/Osnovy_Nauchnogo_Issledovania.pdf)
+
 # Обязательно к ознакомлению
 
 1. [Как сделать оглавление в MS Word](https://www.youtube.com/watch?app=desktop&v=fU9X88ZoALU)
