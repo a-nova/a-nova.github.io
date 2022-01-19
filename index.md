@@ -72,6 +72,22 @@ th {
 
 <hr />
 
+<h2>Гражданский процесс</h2>
+
+<ol>
+
+{% for lesson in site.gpp %}
+
+  <li>
+    <a href="{{ lesson.url }}">
+      {{ lesson.title }}
+    </a>
+  </li>
+
+{% endfor %}
+
+<hr />
+
 <h1><a href="/colloc">Коллоквиум</a></h1>
 
 <hr />

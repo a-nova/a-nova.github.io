@@ -20,6 +20,8 @@ collections:
     output: true
   tr:
     output: true
+  gpp:
+    output: true
   presentations:
     output: true
   notifs:
