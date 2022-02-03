@@ -11,7 +11,7 @@ layout: page
 
 1. [Как сделать оглавление в MS Word](https://www.youtube.com/watch?app=desktop&v=fU9X88ZoALU)
 2. [Научный стиль](https://licey.net/free/4-russkii_yazyk/41-kurs_russkogo_yazyka_russkii_yazyk_i_kultura_obscheniya/stages/791-52_nauchnyi_stil.html)
-3. [Шаблон курсовой работы](/Kursovaya_ryba.docx)
+3. [Шаблон курсовой работы](/Kursovaya_ryba-1.docx)
 4. [Методические рекомендации по написанию курсовых работ](/metodichka_po_kursovym_rabotam.docx)
 5. [ГОСТ 7.0.5-2008 «Библиографическая ссылка»](/gost-7_0_8-2008.pdf)
 6. [Методы научного исследования](/Metody_Nauchnogo_Issledovania.pdf)
