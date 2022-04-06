@@ -18,3 +18,8 @@ layout: page
 - [Киберленинка](https://cyberleninka.ru)
 - [Научная электронная библиотека](https://elibrary.ru)
 - [Закон.ру](https://zakon.ru)
+
+# Контрольная по срокам
+
+- [Вариант 1](./sroki/kontr-sroki-1.org.docx)
+- [Вариант 2](./sroki/kontr-sroki-2.org.docx)
