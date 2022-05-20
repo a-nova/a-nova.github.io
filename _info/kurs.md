@@ -3,9 +3,20 @@ title: Материалы для курсовой работы
 layout: page
 ---
 
+# Образец презентации для защиты курсовой работы
+
+* [pdf](./kurs/kurs_pres.pdf)
+* [pptx](./kurs/kurs_pres.pptx)
+
+<hr/>
+
 # [Перечень тем курсовых работ по гражданскому праву](./kurs/Perechen_Tem_Kursovykh_Rabot_Po_Grazhdanskomu_Pravu.docx)
 
+<hr/>
+
 # [Презентация "Основы научного исследования"](./kurs/Osnovy_Nauchnogo_Issledovania.pdf)
+
+<hr/>
 
 # Обязательно к ознакомлению
 
